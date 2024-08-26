@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "courseName": "MERN Stack",
+        "courseType": "fsd",
+        "courseImage": "https://img.freepik.com/free-vector/creative-abstract-quantum-illustration_23-2149236239.jpg?"
+    },
+    {
+        "id": 2,
+        "courseName": "MEAN Stack",
+        "courseType": "fsd",
+        "courseImage": "https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-4699.jpg"
+    },
+    {
+        "id": 3,
+        "courseName": "Angular and Java",
+        "courseType": "fsd",
+        "courseImage": "https://img.freepik.com/free-vector/programming-language-illustration_24908-61529.jpg?"
+    },
+    {
+        "id": 4,
+        "courseName": "Data Science with R",
+        "courseType": "dataScience",
+        "courseImage": "https://img.freepik.com/free-photo/abstract-plexus-blue-geometrical-shapes-connection-ai-generated-image_511042-596.jpg?"
+    },
+    {
+        "id": 5,
+        "courseName": "Data Visualization in Python",
+        "courseType": "dataScience",
+        "courseImage": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?"
+    },
+    {
+        "id": 6,
+        "courseName": "Machine Learning",
+        "courseType": "dataScience",
+        "courseImage": "https://img.freepik.com/free-vector/scientists-studying-neural-connections-programmers-writing-codes-machine-brain_74855-14157.jpg?"
+    },
+    {
+        "id": 7,
+        "courseName": "Cyber security and Ethical Hacking for Beginners",
+        "courseType": "cyberSecurity",
+        "courseImage": "https://img.freepik.com/free-vector/cyber-security-concept_23-2148533274.jpg?"
+    },
+    {
+        "id": 8,
+        "courseName": "Cyber security and Ethical Hacking - Advanced",
+        "courseType": "cyberSecurity",
+        "courseImage": "https://img.freepik.com/free-vector/neon-cyber-security-concept-with-padlock-circuit_23-2148536303.jpg?"
+    },
+    {
+        "id": 9,
+        "courseName": "Buisness Analyst",
+        "courseType": "career",
+        "courseImage": "https://img.freepik.com/free-vector/couple-professionals-analyzing-graphs_74855-4393.jpg?"
+    },
+    {
+        "id": 10,
+        "courseName": "Devops",
+        "courseType": "career",
+        "courseImage": "https://img.freepik.com/free-vector/devops-engineer-flat-design-concept-with-big-infinity-symbol-centre-little-icons-working-employees-vector-illustration_1284-74955.jpg?"
+    }
+]
